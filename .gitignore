@@ -1,0 +1,5 @@
+# Ignore temporary
+README.md
+
+# Ignore __pycache__/
+*.py[cod]

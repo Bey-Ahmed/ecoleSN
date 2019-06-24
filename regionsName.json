@@ -1,0 +1,32 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{"type": "Feature", "properties": {"name": "DAKAR"}, "geometry": {"type": "Point", "coordinates": [-17.431667, 14.672222]}}
+		,
+		{"type": "Feature", "properties": {"name": "DIOURBEL"}, "geometry": {"type": "Point", "coordinates": [-16.231389, 14.655000]}}
+		,
+		{"type": "Feature", "properties": {"name": "FATICK"}, "geometry": {"type": "Point", "coordinates": [-16.416667, 14.316667]}}
+		,
+		{"type": "Feature", "properties": {"name": "KAFFRINE"}, "geometry": {"type": "Point", "coordinates": [-15.543194, 14.101417]}}
+		,
+		{"type": "Feature", "properties": {"name": "KAOLACK"}, "geometry": {"type": "Point", "coordinates": [-16.083333, 14.166667]}}
+		,
+		{"type": "Feature", "properties": {"name": "KEDOUGOU"}, "geometry": {"type": "Point", "coordinates": [-12.180750, 12.555583]}}
+		,
+		{"type": "Feature", "properties": {"name": "KOLDA"}, "geometry": {"type": "Point", "coordinates": [-14.950000, 12.883333]}}
+		,
+		{"type": "Feature", "properties": {"name": "LOUGA"}, "geometry": {"type": "Point", "coordinates": [-16.216667, 15.616667]}}
+		,
+		{"type": "Feature", "properties": {"name": "MATAM"}, "geometry": {"type": "Point", "coordinates": [-13.633333, 15.100000]}}
+		,
+		{"type": "Feature", "properties": {"name": "SAINT LOUIS"}, "geometry": {"type": "Point", "coordinates": [-14.800000, 16.216667]}}
+		,
+		{"type": "Feature", "properties": {"name": "SEDHIOU"}, "geometry": {"type": "Point", "coordinates": [-15.556944, 12.708056]}}
+		,
+		{"type": "Feature", "properties": {"name": "TAMBACOUNDA"}, "geometry": {"type": "Point", "coordinates": [-13.667222, 13.768889]}}
+		,
+		{"type": "Feature", "properties": {"name": "THIES"}, "geometry": {"type": "Point", "coordinates": [-16.924722, 14.790556]}}
+		,
+		{"type": "Feature", "properties": {"name": "ZIGUINCHOR"}, "geometry": {"type": "Point", "coordinates": [-16.283333, 12.561111]}}
+	]
+}
